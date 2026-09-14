@@ -2,3 +2,9 @@
 ---
 
 ## Autor : Manuela Bedoya. 🐾
+
+# Archivos
+
+- calcularSalario.py
+- Cats.py
+- README.md
